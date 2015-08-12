@@ -7,6 +7,10 @@
 去年刚发布1.8时朋友急着玩，于是写了这个AHK脚本应急用，应该适用与Minecraft 1.7以上版本的任何文字输入处。
 
 ----
+
+![Imgur](http://i.imgur.com/7yIvUd6.png)
+![Imgur](http://i.imgur.com/dy23etn.png)
+
 使用方法：
 
 如安装有AutoHotkey，请直接下载InputHelper.ahk，双击运行脚本。
